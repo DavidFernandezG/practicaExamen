@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "690815796934",
+    "project_id": "practicaexamen-d13be",
+    "storage_bucket": "practicaexamen-d13be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690815796934:android:7471969773d61121a0b9c7",
+        "android_client_info": {
+          "package_name": "com.flutteruhr.practicaexamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690815796934-sjp7m1n3nnanoahith5gepgokkett4kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutteruhr.practicaexamen",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "690815796934-509o65hj8so2v1hqf4i5vu5712p13vek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbUu_2t2v7VdWTRkFLV0r2j8AnuSeAZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690815796934-509o65hj8so2v1hqf4i5vu5712p13vek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690815796934-bb2dhd7v7feicompj4ddj5f2a05fp0r7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutteruhr.practicaexamen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
